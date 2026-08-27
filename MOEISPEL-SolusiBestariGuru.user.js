@@ -5,8 +5,8 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=moe.gov.my
 // @version      3.0.20260825
 // @supportURL   https://t.me/bincangsolusibestariguru
-// @updateURL    https://raw/MOEISPEL-SolusiBestariGuru.user.js
-// @downloadURL  https://raw/MOEISPEL-SolusiBestariGuru.user.js
+// @updateURL    https://raw.githubusercontent.com/zaimuddin/MOEISPEL-SolusiBestariGuru/refs/heads/main/MOEISPEL-SolusiBestariGuru.user.js
+// @downloadURL  https://raw.githubusercontent.com/zaimuddin/MOEISPEL-SolusiBestariGuru/refs/heads/main/MOEISPEL-SolusiBestariGuru.user.js
 // @author       Ustaz Zaimuddin Hassan (https://t.me/zaimuddinhassan), Guru Al-Quran dan Bahasa Arab, SMK Padang Pak Amat, Pasir Puteh, Kelantan.
 // @match        https://moeispel.moe.gov.my/
 // @match        https://moeispel.moe.gov.my/sahsiah/kehadiran/pkhem/tabguru
