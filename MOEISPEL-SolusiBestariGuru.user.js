@@ -8,6 +8,7 @@
 // @updateURL    https://raw.githubusercontent.com/zaimuddin/MOEISPEL-SolusiBestariGuru/refs/heads/main/MOEISPEL-SolusiBestariGuru.user.js
 // @downloadURL  https://raw.githubusercontent.com/zaimuddin/MOEISPEL-SolusiBestariGuru/refs/heads/main/MOEISPEL-SolusiBestariGuru.user.js
 // @author       Ustaz Zaimuddin Hassan (https://t.me/zaimuddinhassan), Guru Al-Quran dan Bahasa Arab, SMK Padang Pak Amat, Pasir Puteh, Kelantan.
+// @license      CC BY-NC-SA 4.0
 // @match        https://moeispel.moe.gov.my/
 // @match        https://moeispel.moe.gov.my/sahsiah/kehadiran/pkhem/tabguru
 // @match        https://moeispel.moe.gov.my/sahsiah/kehadiran/tabguru
